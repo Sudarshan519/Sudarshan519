@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
+- 📞 9863450107
+- 📧 sudarshanshrestha519@gmail.com
 
 <!---
 Sudarshan519/Sudarshan519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
