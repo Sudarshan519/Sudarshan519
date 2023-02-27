@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudarshan Shrestha Flutter Developer(Android, IOs)
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning python, ML Kits
+- 👀 I’m interested in app development, CICD , CLEAN ARCHITECTURE
+- 🌱 I’m currently learning python, ML Kits 
 - 💞️ I’m looking to collaborate as a Flutter Developer
 - 📫 How to reach me ...
 - 📞 9863450107
