@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sudarshan Shrestha Flutter Developer(Android, IOs)
-- 👀 I’m interested in app development, CICD , CLEAN ARCHITECTURE
+- 👋 Hi, I’m Sudarshan Shrestha Flutter Developer(Android, IOs),PYTHON(DJANO,FASTAPI,FLASK)
+- 👀 I’m interested in app development, CICD , CLEAN ARCHITECTURE,TEST DRIVEN DEVELOPMENT
 - 🌱 I’m currently learning python, ML Kits 
 - 💞️ I’m looking to collaborate as a Flutter Developer
 - 📫 How to reach me ...
