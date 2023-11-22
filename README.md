@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sudarshan Shrestha Flutter Developer(Android, IOs),PYTHON(DJANO,FASTAPI,FLASK)
+- GETX and BLOC
 - App development, CICD , CLEAN ARCHITECTURE,TEST DRIVEN DEVELOPMENT
 - 👀 I’m interested in MACHINE LEARNING
 - 🌱 I’m currently learning python, ML Kits 
