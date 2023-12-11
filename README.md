@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Sudarshan Shrestha Flutter Developer(Android, IOs),PYTHON(DJANO,FASTAPI,FLASK)
+- 👋 Hi, I’m Sudarshan Shrestha Flutter Developer(Android, IOS),PYTHON(DJANO,FASTAPI,FLASK)
 - GETX and BLOC
 - App development, CICD , CLEAN ARCHITECTURE,TEST DRIVEN DEVELOPMENT
 - 👀 I’m interested in MACHINE LEARNING
 - 🌱 I’m currently learning python, ML Kits 
-- 💞️ I’m looking to collaborate as a Flutter Developer
+- 💞️ I’m looking forward to collaborate as a Flutter Developer
 - 📫 How to reach me ...
 - 📞 9863450107
 - 📧 sudarshanshrestha519@gmail.com
