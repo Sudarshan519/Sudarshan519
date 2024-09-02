@@ -1,4 +1,3 @@
-
 # Sudarshan Shrestha
 **Full Stack (Flutter/Python) Developer**  
 Ranibari, Kathmandu  
@@ -12,52 +11,49 @@ Facebook: [facebook.com/asmir.shrestha](https://www.facebook.com/asmir.shrestha)
 ---
 
 ## Professional Summary
-Innovative and results-driven Full Stack Developer with over 4 years of experience in mobile and web application development. Proficient in Flutter, Python, and various other technologies, with a proven track record of delivering high-quality applications. Adept at solving complex problems, working collaboratively in team environments, and aligning project goals with business objectives.
+Innovative Full Stack Developer with over 4 years of experience specializing in Flutter and Python. Demonstrated success in developing high-impact mobile and web applications, and creating tools that enhance productivity and user engagement. Adept at problem-solving, collaborating with teams, and delivering robust solutions that align with business objectives.
 
 ---
 
 ## Experience
 
-**Full Stack Developer**  
-*Hotei Production, US Based Company *  
+**FlutterFlow Developer** / **Full Stack Developer**  
+*Hotei Production*  
 *2022 - Present*  
-- Developed a suite of tools including:
-  - **Prompts-GPT Tool**: A comprehensive tool with 50,000 GPT-based prompts for various applications.
-  - **Defining Moments Story Creator**: Tool for crafting compelling stories and defining moments.
-  - **Marketing Asset Creator**: Tool for generating marketing materials and assets.
-- Enhanced user experience through intuitive design and seamless functionality.
+- Designed and developed applications using FlutterFlow, optimizing the development process with no-code and low-code solutions.
+- Created and maintained:
+  - **Prompts-GPT Tool**: A tool with 50,000 GPT-based prompts.
+  - **Defining Moments Story Creator**: Tool for crafting compelling stories.
+  - **Marketing Asset Creator**: Tool for generating marketing materials.
+- Improved user experience and functionality through intuitive design and implementation.
+- Developed additional tools and applications with a focus on enhancing productivity and engagement.
 
 **Flutter Developer**  
 *New It Venture, Kathmandu*  
 *May 2022 - Present*  
-- Developed and maintained mobile applications using Flutter.
-- Collaborated with cross-functional teams to design and implement features.
-- Optimized application performance and resolved bugs.
+- Led the development and maintenance of Flutter-based mobile applications.
+- Collaborated with teams to implement features and improve app performance.
 
 **Flutter Developer**  
-*An4soft Pvt. Ltd, Mid. Baneshwor, Kathmandu*  
+*An4soft Pvt. Ltd, Kathmandu*  
 *Aug 2020 - May 2022*  
-- Created and deployed mobile applications for Android and iOS platforms.
-- Integrated APIs and third-party services.
-- Implemented UI/UX designs and ensured high performance and responsiveness.
+- Developed mobile applications for Android and iOS with a focus on UI/UX and performance optimization.
 
 **Flutter Intern**  
-*Nerd Platoon, Sallaghari, Bhaktapur*  
+*Nerd Platoon, Bhaktapur*  
 *Feb 2018 - Aug 2019*  
-- Assisted in the development of mobile applications using Flutter.
-- Contributed to project documentation and code reviews.
-- Gained hands-on experience in Flutter and mobile app development.
+- Assisted in the development of mobile applications, gaining practical experience in Flutter.
 
 ---
 
 ## Education
 
 **B.Sc. CSIT**  
-*Asian School of Management & Technology, Gongabu, Kathmandu*  
+*Asian School of Management & Technology, Kathmandu*  
 *Nov 2018 - Dec 2021*
 
 **HSEB**  
-*Morgan International College, Basundhara, Kathmandu*  
+*Morgan International College, Kathmandu*  
 *Jan 2016 - Nov 2018*
 
 ---
@@ -65,16 +61,16 @@ Innovative and results-driven Full Stack Developer with over 4 years of experien
 ## Projects
 
 - **Prompts-GPT Tool**  
-  A comprehensive tool featuring 50,000 GPT-based prompts designed to streamline content creation and enhance productivity.
+  Comprehensive tool with 50,000 GPT-based prompts for efficient content creation.
 
 - **Defining Moments Story Creator**  
-  Tool for creating defining moments in stories, enhancing narrative quality and engagement.
+  Tool for crafting compelling stories and defining moments.
 
 - **Marketing Asset Creator**  
-  Tool for generating a variety of marketing materials and assets, boosting marketing efforts.
+  Generates marketing materials and assets.
 
 - **Hajir Smart Attendance System**  
-  Smart attendance system with QR code scanning, Firebase messaging, notifications, and report previews.  
+  Attendance system with QR code scanning, Firebase messaging, and report previews.  
   [Documentation](https://jobsserach.vercel.app/hajir/docs)
 
 - **BNPJ Credit**  
@@ -86,42 +82,17 @@ Innovative and results-driven Full Stack Developer with over 4 years of experien
   [Play Store](https://play.google.com/store/apps/details?id=com.an4soft.nirmanschedule)
 
 - **RPS Remittance**  
-  Remittance application with Flutter, Firebase, CrashAnalytics, and custom AI/ML plugins.
+  Remittance application featuring AI/ML card detection and Firebase integrations.
 
 - **Valuers Association**  
   Property evaluation application for Android and iOS.  
   [Play Store](https://play.google.com/store/apps/details?id=com.an4soft.valuer_association)
 
-- **EGP Nepal**  
-  Tender bidding application for Android and iOS.  
-  [Play Store](https://play.google.com/store/apps/details?id=com.an4soft.egpnepal)
-
-- **Nepal Student Union**  
-  Application for the Nepal Student Union.  
-  [Play Store](https://play.google.com/store/apps/details?id=com.nsu.app)
-
-- **Kipuwex Patient Monitor**  
-  IoT device for continuous measurement of physiological parameters.  
-  [Kipuwex](https://kipuwex.com/)
-
-- **Remittance Backend**  
-  Full-fledged application using FastAPI.  
-  [Documentation](https://jobsserach.vercel.app/docs)
-
-- **Kiosk Application**  
-  Flutter-based kiosk application for user information display.
-
-- **HelpDesk Application**  
-  TV application based on Flutter.
-
-- **Residence Card Model Training and Detection**  
-  TensorFlow model training and detection for residence cards using Python, OpenCV, and TensorFlow.
-
 ---
 
 ## Skills
 - **Languages**: Dart, Flutter, Python, JavaScript/Node.js
-- **Tools**: JIRA, REST API, Docker, CI/CD, Unit Testing
+- **Tools**: FlutterFlow, JIRA, REST API, Docker, CI/CD, Unit Testing
 - **Methodologies**: Agile
 
 ---
@@ -133,19 +104,13 @@ Innovative and results-driven Full Stack Developer with over 4 years of experien
 
 ---
 
-## Achievements
-- **Innovative Projects**: Developed apps utilizing cutting-edge technologies, AI/ML, and IoT.
-- **Mentoring**: Provided guidance to junior developers in Flutter and collaborated with senior developers.
-- **Published Apps**: Successfully published multiple applications on Play Store and App Store with clean architecture and complex UI/UX.
-
----
-
 ## References
 
 **Aalok Niroula**  
 Technology Specialist, An4soft  
 Phone: +977 9862678564  
 Email: [anupniroula@125@gmail.com](mailto:anupniroula@125@gmail.com)
+
 
 - 👋 Hi, I’m Sudarshan Shrestha Flutter Developer(Android, IOS),PYTHON(DJANO,FASTAPI,FLASK)
 - GETX, BLOC, RIVERPOD
