@@ -129,6 +129,3 @@ Flutter Developer, New IT Venture
 </h2>
 <!---
 [![Telegram Badge](https://img.shields.io/badge/-%7C%20@Sudarshan-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/)](https://t.me/ "Telegram")--->
-
-[![Email Badge](https://img.shields.io/badge/-%7C%20sudarshanshrestha@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:AbhionFire@protonmail.com)](mailto:sudarshanshrestha519@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-%7C%20Sudarshan%20Shrestha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)]([https://www.linkedin.com/in/](https://linkedin.com/in/sudarshan-shrestha-97423714a)
