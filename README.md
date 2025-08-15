@@ -1,7 +1,5 @@
 # Sudarshan Shrestha
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# Sudarshan Shrestha
 
 **Full Stack Developer (Python | AI/ML | Backend | DevOps)**
 Kathmandu, Nepal  |  +977 9863450107  |  [sudarshanshrestha519@gmail.com](mailto:sudarshanshrestha519@gmail.com)
