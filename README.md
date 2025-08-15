@@ -1,132 +1,185 @@
 # Sudarshan Shrestha
-**Full Stack (Flutter/Python) Developer**  
-Ranibari, Kathmandu  
-Phone: +977 9863450107  
-Email: [sudarshanshrestha519@gmail.com](mailto:sudarshanshrestha519@gmail.com)  
-Website: [sudarshanshrestha.vercel.app](https://sudarshanshrestha.vercel.app/)  
-LinkedIn: [linkedin.com/in/sudarshan-shrestha-97423714a](https://linkedin.com/in/sudarshan-shrestha-97423714a)  
-GitHub: [github.com/sudarshan519](https://github.com/sudarshan519)  
-Facebook: [facebook.com/asmir.shrestha](https://www.facebook.com/asmir.shrestha)  
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
----
+# update this readme.md as Sudarshan Shrestha
 
-## Professional Summary
-Innovative Full Stack Developer with over 4 years of experience specializing in Flutter and Python. Demonstrated success in developing high-impact mobile and web applications, and creating tools that enhance productivity and user engagement. Adept at problem-solving, collaborating with teams, and delivering robust solutions that align with business objectives.
+Full Stack Developer (Python | AI/ML | Backend | DevOps)
+Kathmandu, Nepal | +977 9863450107 | [sudarshanshrestha519@gmail.com](mailto:sudarshanshrestha519@gmail.com)
+Website: sudarshanshrestha.vercel.app
+LinkedIn: linkedin.com/in/sudarshan-shrestha-97423714a
+GitHub: github.com/sudarshan519
+Facebook: facebook.com/asmir.shrestha
+Professional Summary
+Dynamic and results-driven Full Stack Developer with over 4 years of experience in backend and AI/ML development, specializing in Python (Django/FastAPI), AI integration including ChatGPT, agentic AI using AIXplain, and DevOps practices. Proven track record of delivering robust, scalable, and innovative applications across web and backend platforms. Expertise in real-time AI features, prompt engineering, agent-based systems, OpenAI agents, and automation of intelligent workflows.
+Skilled in designing and implementing AI-powered solutions such as context-aware conversational agents, real-time meeting recorders and transcribers, and autonomous AI workflows that automate complex decision-making tasks. Adept at developing prompt engineering frameworks and scalable backend APIs to enhance AI model efficiency and user engagement.
+Experienced mentor and collaborative team player with a passion for solving complex problems, leading agile teams, and building impactful products from concept through deployment. Continuously learning and adapting to emerging AI technologies to deliver forward-thinking solutions that drive business value and improve user experiences.
+Core Skills
+Languages \& Frameworks: Python (Django, FastAPI) • JavaScript • Node.js • Laravel • ML (TensorFlow, MLKit)
+DevOps \& Tools: Docker • CI/CD (GitHub Actions) • Firebase • RESTful APIs • JIRA • Agile/Scrum
+Databases \& Cloud: Firebase Firestore • PostgreSQL • MongoDB • AWS
+Testing \& Quality: Unit Testing • Integration Testing • Clean Architecture • Test-Driven Development
+Soft Skills: Team Collaboration • Mentorship • Agile Adaptability • Problem Solving • Client Communication
+AI/ML Developer
+Designed and integrated advanced AI capabilities including context-aware conversational AI using ChatGPT.
+Implemented agentic AI workflows leveraging AIXplain to automate complex decision-making and task execution.
+Developed AI-powered tools for real-time audio transcription, meeting recording, and interactive user suggestions to enhance engagement.
+Engineered OpenAI-based autonomous agents to facilitate personalized user interactions and automate outreach communications.
+Developed prompt engineering frameworks and listing tools to optimize AI model interactions and efficiency.
+Led design and implementation of scalable, secure backend APIs supporting AI-driven applications.
+Backend Developer
+Collaborated on secure, scalable backend development with FastAPI and Django.
+Implemented CI/CD pipelines and optimized API performance.
+Managed Dockerized deployment environments.
+Mentored junior developers and conducted thorough code reviews.
+Flutter Developer | AmberNectar Pvt. Ltd, Lalitpur (Jan 2019 – July 2021)
+Developed reusable Flutter components for cross-platform apps.
+Coordinated with UI/UX teams for pixel-perfect design implementation.
+Managed end-to-end app deployment to Google Play and Apple App Store.
+Projects
+Nirman Schedule: Construction project tracker with real-time updates.
+BNPJ Credit: Cashless payment system integrated with Firebase.
+Valuers Association: Property evaluation app.
+EGP Nepal: Live bidding and tender viewing platform.
+Nepal Student Union: Official political student organization app.
+Hajir Attendance System: Employee attendance with QR code and analytics dashboard.
+RPS Remittance API: Secure backend for remittance transactions.
+Smart Attendance API: REST API for attendance and leave management.
+Residence Card Detection: TensorFlow model for Nepalese residence card classification.
+Kipuwex Patient Monitor: IoT health monitoring with Bluetooth sensors.
+Certifications \& Training
+Flutter \& Dart Development
+Django (Python)
+Laravel (PHP)
+Machine Learning Fundamentals (TensorFlow, MLKit)
+Education
+Bachelor of Science in Computer Science and IT (BSc.CSIT), Asian School of Management \& Technology, Kathmandu (Nov 2018 – Dec 2021)
+Higher Secondary Education (HSEB), Morgan International College, Kathmandu (Jan 2016 – Nov 2018)
+Achievements
+Published 10+ production apps on Play Store and App Store with 50K+ combined downloads.
+Integrated AI/ML and IoT technologies in production applications.
+Mentored junior developers and led small agile teams.
+Developed scalable backend systems with FastAPI and Django.
+References
+Aalok Niroula, Technology Specialist – An4soft Pvt. Ltd, +977 9862678564, anupniroula@125@gmail.com
+Pranishan RajBhandari, Flutter Developer – New IT Venture
 
----
+Here’s your updated `README.md` for Sudarshan Shrestha, formatted for clarity, impact, and modern style:
 
-## Experience
+***
 
-**FlutterFlow Developer** / **Full Stack Developer**  
-*Hotei Production*  
-*2022 - Present*  
-- Designed and developed applications using FlutterFlow, optimizing the development process with no-code and low-code solutions.
-- Created and maintained:
-  - **Prompts-GPT Tool**: A tool with 50,000 GPT-based prompts.
-  - **Defining Moments Story Creator**: Tool for crafting compelling stories.
-  - **Marketing Asset Creator**: Tool for generating marketing materials.
-- Improved user experience and functionality through intuitive design and implementation.
-- Developed additional tools and applications with a focus on enhancing productivity and engagement.
+# Sudarshan Shrestha
 
-**Flutter Developer**  
-*New It Venture, Kathmandu*  
-*May 2022 - Present*  
-- Led the development and maintenance of Flutter-based mobile applications.
-- Collaborated with teams to implement features and improve app performance.
+**Full Stack Developer (Python | AI/ML | Backend | DevOps)**
+Kathmandu, Nepal  |  +977 9863450107  |  [sudarshanshrestha519@gmail.com](mailto:sudarshanshrestha519@gmail.com)
+Website: [sudarshanshrestha.vercel.app](https://sudarshanshrestha.vercel.app/)
+LinkedIn: [linkedin.com/in/sudarshan-shrestha-97423714a](https://linkedin.com/in/sudarshan-shrestha-97423714a)
+GitHub: [github.com/sudarshan519](https://github.com/sudarshan519)
+Facebook: [facebook.com/asmir.shrestha](https://facebook.com/asmir.shrestha)
 
-**Flutter Developer**  
-*An4soft Pvt. Ltd, Kathmandu*  
-*Aug 2020 - May 2022*  
-- Developed mobile applications for Android and iOS with a focus on UI/UX and performance optimization.
+***
 
-**Flutter Intern**  
-*Nerd Platoon, Bhaktapur*  
-*Feb 2018 - Aug 2019*  
-- Assisted in the development of mobile applications, gaining practical experience in Flutter.
+## 📝 Professional Summary
 
----
+Dynamic and results-driven Full Stack Developer with 4+ years of experience in backend and AI/ML development, specializing in Python (Django/FastAPI), agentic AI (using aiXplain), and DevOps practices. Proven track record delivering robust, scalable, and innovative applications. Specialized in real-time AI features, prompt engineering, agent-based systems, OpenAI agents, and automation of intelligent workflows.
 
-## Education
+Skilled in designing and implementing AI-powered solutions from conversational agents and meeting transcribers to autonomous AI workflows and scalable backend APIs. Passionate mentor, problem solver, and agile team player—always learning and driving impactful products from concept to deployment.
 
-**B.Sc. CSIT**  
-*Asian School of Management & Technology, Kathmandu*  
-*Nov 2018 - Dec 2021*
+***
 
-**HSEB**  
-*Morgan International College, Kathmandu*  
-*Jan 2016 - Nov 2018*
+## ⚡ Core Skills
 
----
+- **Languages \& Frameworks:** Python (Django, FastAPI), JavaScript, Node.js, Laravel, ML (TensorFlow, MLKit)
+- **DevOps \& Tools:** Docker, CI/CD (GitHub Actions), Firebase, RESTful APIs, JIRA, Agile/Scrum
+- **Database \& Cloud:** Firebase Firestore, PostgreSQL, MongoDB, AWS
+- **Testing \& Quality:** Unit Testing, Integration Testing, Clean Architecture, Test-Driven Development
+- **Soft Skills:** Team Collaboration, Mentorship, Agile Adaptability, Problem Solving, Client Communication
 
-## Projects
+***
 
-- **Prompts-GPT Tool**  
-  Comprehensive tool with 50,000 GPT-based prompts for efficient content creation.
+## 🤖 AI/ML Developer
 
-- **Defining Moments Story Creator**  
-  Tool for crafting compelling stories and defining moments.
+- Designed and integrated advanced, context-aware AI agents (ChatGPT \& aiXplain)
+- Built agentic AI workflows for autonomous decision-making and automation
+- Developed real-time audio transcription, meeting recording, and interactive suggestion tools
+- Engineered OpenAI-based autonomous agents for personalized outreach
+- Developed prompt engineering frameworks and tools for optimized AI interactions
+- Led secure, scalable backend API design for AI-driven apps
 
-- **Marketing Asset Creator**  
-  Generates marketing materials and assets.
+***
 
-- **Hajir Smart Attendance System**  
-  Attendance system with QR code scanning, Firebase messaging, and report previews.  
-  [Documentation](https://jobsserach.vercel.app/hajir/docs)
+## 🛠️ Backend Developer
 
-- **BNPJ Credit**  
-  Japanese cashless payment system with Firebase notifications and payment plugins.  
-  [Play Store](https://play.google.com/store/apps/details?id=com.bnpj.creditapp)
+- Developed secure, scalable backends with FastAPI and Django
+- Implemented CI/CD pipelines and Dockerized deployment
+- Optimized API performance for reliability and speed
+- Mentored junior developers and led code reviews
 
-- **Nirman Schedule**  
-  Application for viewing construction project updates and live data visualization.  
-  [Play Store](https://play.google.com/store/apps/details?id=com.an4soft.nirmanschedule)
+***
 
-- **RPS Remittance**  
-  Remittance application featuring AI/ML card detection and Firebase integrations.
+## 📱 Flutter Developer
 
-- **Valuers Association**  
-  Property evaluation application for Android and iOS.  
-  [Play Store](https://play.google.com/store/apps/details?id=com.an4soft.valuer_association)
+**AmberNectar Pvt. Ltd, Lalitpur** — *(Jan 2019 – July 2021)*
 
----
+- Developed reusable Flutter components for cross-platform applications
+- Collaborated on UI/UX for pixel-perfect implementation
+- Managed app deployment: Google Play \& Apple App Store
 
-## Skills
-- **Languages**: Dart, Flutter, Python, JavaScript/Node.js
-- **Tools**: FlutterFlow, JIRA, REST API, Docker, CI/CD, Unit Testing
-- **Methodologies**: Agile
+***
 
----
+## 🚀 Projects
 
-## Training/Certifications
-- Laravel (PHP)
-- Flutter and Dart
+- **Nirman Schedule:** Construction project tracker with real-time updates
+- **BNPJ Credit:** Cashless payment (Firebase, notifications, plugins)
+- **Valuers Association:** Property evaluation app
+- **EGP Nepal:** Live bidding and tender platform
+- **Nepal Student Union:** Official political student organization app
+- **Hajir Attendance System:** QR code analytics dashboard
+- **RPS Remittance API:** Secure backend for remittance
+- **Smart Attendance API:** RESTful employee attendance management
+- **Residence Card Detection:** TensorFlow model for card classification
+- **Kipuwex Patient Monitor:** IoT Bluetooth health monitoring
+
+***
+
+## 🎓 Certifications \& Training
+
+- Flutter \& Dart Development
 - Django (Python)
+- Laravel (PHP)
+- Machine Learning Fundamentals (TensorFlow, MLKit)
 
----
+***
 
-## References
+## 🎓 Education
 
-**Aalok Niroula**  
-Technology Specialist, An4soft  
-Phone: +977 9862678564  
-Email: [anupniroula@125@gmail.com](mailto:anupniroula@125@gmail.com)
+- **Bachelor of Science in Computer Science and IT (B.Sc.CSIT):**
+Asian School of Management \& Technology, Kathmandu *(Nov 2018 – Dec 2021)*
+- **Higher Secondary Education (HSEB):**
+Morgan International College, Kathmandu *(Jan 2016 – Nov 2018)*
+
+***
+
+## 🏆 Achievements
+
+- Published 10+ production apps (Play Store, App Store, 50K+ downloads)
+- Integrated AI/ML and IoT technologies into production applications
+- Mentored junior developers \& led agile teams
+- Built scalable, robust backend systems with Django \& FastAPI
+
+***
+
+## 👥 References
+
+- **Aalok Niroula**
+Technology Specialist, An4soft Pvt. Ltd
++977 9862678564 | [anupniroula@125@gmail.com](mailto:anupniroula@125@gmail.com)
+- **Pranishan RajBhandari**
+Flutter Developer, New IT Venture
+
+***
 
 
-- 👋 Hi, I’m Sudarshan Shrestha Flutter Developer(Android, IOS),PYTHON(DJANO,FASTAPI,FLASK)
-- GETX, BLOC, RIVERPOD
-- App development, CICD , CLEAN ARCHITECTURE,TEST DRIVEN DEVELOPMENT
-- 👀 I’m interested in MACHINE LEARNING
-- 🌱 I’m currently learning python, ML Kits 
-- 💞️ I’m looking forward to collaborate as a Flutter Developer
-- 📫 How to reach me ...
-- 📞 9863450107
-- 📧 sudarshanshrestha519@gmail.com
-- 🌐 Website: https://jobsserach.vercel.app/
-- 🌐 Website: https://sudarshanshrestha.vercel.app/
-<!---
-Sudarshan519/Sudarshan519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 
 # Hi, I'm Sudarshan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
