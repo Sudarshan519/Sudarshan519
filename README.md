@@ -123,9 +123,3 @@ Flutter Developer, New IT Venture
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan519&langs_count=10&theme=chartreuse-dark&hide_border=true)](https://github.com/Sudarshan519?tab=repositories)
 
 
-<h2>
-    Connect with me 
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">  
-</h2>
-<!---
-[![Telegram Badge](https://img.shields.io/badge/-%7C%20@Sudarshan-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/)](https://t.me/ "Telegram")--->
